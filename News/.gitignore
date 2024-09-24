@@ -1,0 +1,28 @@
+
+# Ignore build files
+build/
+DerivedData/
+
+# Ignore Xcode files
+*.xcworkspace
+*.xcuserstate
+*.xcscheme
+*.xcuserdata/
+
+# Ignore user-specific files
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore Swift Package Manager files
+/.build/
+/Packages/
+.swiftpm/
+
+# Ignore sensitive information
+Config.plist
+Secrets.swift
+
+# Ignore other files
+*.log
+*.tmp
