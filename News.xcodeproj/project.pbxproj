@@ -34,6 +34,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		27384D702CA70B59006B4E45 /* screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 		278B6CD62CA1F9E20018E177 /* News */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = News;
@@ -80,6 +85,7 @@
 		278B6CCB2CA1F9E20018E177 = {
 			isa = PBXGroup;
 			children = (
+				27384D702CA70B59006B4E45 /* screenshots */,
 				278B6CD62CA1F9E20018E177 /* News */,
 				278B6CE72CA1F9E50018E177 /* NewsTests */,
 				278B6CF12CA1F9E50018E177 /* NewsUITests */,
@@ -113,6 +119,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				27384D702CA70B59006B4E45 /* screenshots */,
 				278B6CD62CA1F9E20018E177 /* News */,
 			);
 			name = News;
