@@ -7,7 +7,7 @@
 ## Screens
 
 <p align="center">
-  <img src="screen1.png" alt="Sign In" width="250"/>
-  <img src="screen2.png" alt="Home" width="250"/>
-  <img src="screen3.png" alt="Product Details" width="250"/>
+  <img src="screenshots/screen1.png" alt="Sign In" width="250"/>
+  <img src="screenshots/screen2.png" alt="Home" width="250"/>
+  <img src="screenshots/screen3.png" alt="Product Details" width="250"/>
 </p>
